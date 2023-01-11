@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "578888163908",
+    "project_id": "parklib-fd682",
+    "storage_bucket": "parklib-fd682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578888163908:android:d1dcef043bc28f2e9c1211",
+        "android_client_info": {
+          "package_name": "com.mycompany.parklib"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578888163908-r50fp0rdoe2p442qdsrn63orm4usv8t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.parklib",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "578888163908-vtv7lo2vvoruiq4kc7lnc6socvle0v1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACuZCvRfttE1xbZvqelb7cFrFYSkk51Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578888163908-vtv7lo2vvoruiq4kc7lnc6socvle0v1k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "578888163908-5373kvql3g2ahr71k4isga7fcfns0oii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.parklib"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
